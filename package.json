@@ -1,0 +1,22 @@
+{
+  "name": "sandbox-next-with-basic-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nju33/sandbox-next-with-basic-auth.git",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "dev": "next --port 9284"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-config-xo-space": "^0.22.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  }
+}
